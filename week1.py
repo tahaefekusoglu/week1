@@ -14,6 +14,8 @@ class plane :
                  print('plane{},coordinates on {} now'.format ('args:self.id.self.position'))
 
             uçak1=plane(id,'u1',(0,0,0))
+            siha=plane('s1'(0,0,0))
+
 
 
 class filo:
@@ -28,3 +30,6 @@ class filo:
 
 
 filo1=filo()
+filo1.add_filo(ucak1)
+filo1.show()
+our filo included (0,0,0)
